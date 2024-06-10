@@ -22,8 +22,8 @@ Through data preprocessing, exploratory data analysis (EDA), and machine learnin
 
 ## 📖 References
 
-Referred from: [Search Queries Anomaly Detection using Python](https://thecleverprogrammer.com/2023/11/20/search-queries-anomaly-detection-using-python/)
-Another important video -  [Anamoly detection Tutorial](https://youtu.be/OS9xRGKfx4E?si=1fDPY1s4dFW7qZTE)
+- Referred from: [Search Queries Anomaly Detection using Python](https://thecleverprogrammer.com/2023/11/20/search-queries-anomaly-detection-using-python/)
+- Another important video -  [Anamoly detection Tutorial](https://youtu.be/OS9xRGKfx4E?si=1fDPY1s4dFW7qZTE)
 
 ## 📅 Completion Date
 
